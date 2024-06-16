@@ -1,4 +1,4 @@
-# SaaSafras
+# SaaSafras Ops Optimization
 
 Planterbox Inc, a plant care software business, just acquired a regional plant care operator named SaaSafras based in the Southeastern US. 
 
@@ -32,26 +32,4 @@ Why are they working there?
 We care about your understanding of the why behind your decisions just as much as we care about the actual decision, so please explain your reasoning, not just the conclusion (i.e. don’t rely too much on solver / other tools).
 Bonus: If you had a magic wand, what is the one variable you would try to improve going into year 3? How would you approach moving that variable?
 By “variable” here, we mean one of your team members core metrics (customer acquisition, CSAT, revenue increase, relative churn decrease etc).
-
-Output for the Case Study
-
-In line with our actual work, the ideal output from this exercise is a written document outlining your thinking backed by analysis (in this case, math). As mentioned in our blog, we do not think longer cases are “better” and value clarity far more than length. In case it's helpful – we also wanted to share some pre-reading on customer lifetime value.
-
-The Clipboard Health New Graduate Product Leadership Interview Process
-First of all, thank you for applying to Clipboard Health. We’re very excited at the prospect of you joining our team and want to provide visibility into our process. To give you a view into how we think about recruiting we produced this post. We also recommend that you poke around the blog here to get an idea of how the Product Team works and our Team Standards.
-Steps:
-
-Case Study 1: SaaSafras Case (above prompt)
-Case Study 1: Interview with a member of the Product Team
-Please be prepared to discuss the SaaSafras case during this interview
-We will always give you the chance to ask questions during this stage as well, and if time allows we may go into your background
-Case Study 2: Minimum Viable Brief (you’ll receive a new prompt)
-Case Study 2 Interview
-Meet with President / COO (Bo Lu)
-
-We recognize that this is a time intensive process. We have found this is the best way to assess whether there is a mutual fit. If you're looking for room to grow problem-solving skills in a feedback-rich environment where your thinking will be challenged, we think you'll have fun in both our interview process as well as if you join full-time. We do not use the case studies outside of our recruiting process.
-
-As a general rule, we do not give rejection reasons or feedback for case studies that do not progress to the interview stage. We unfortunately have limits to how many candidates we can interview and get to know, and the members of our team who evaluate case study submissions are unable to provide individualized feedback to every case. Of course, we’re continuously evolving our process to improve the candidate experience and welcome your feedback.
-
-We’re excited for you to get started!
 
